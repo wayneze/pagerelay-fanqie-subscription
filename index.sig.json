@@ -1,0 +1,8 @@
+{
+  "formatVersion": 1,
+  "algorithm": "ES256",
+  "keyId": "3408ccb46109bc5cc1c0e5710b6f34fafcd4c9c5f19406c2b14dbf4b0c370b76",
+  "publicKeySpki": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEOU77iNFs1UNHTHMU1c0Bf1dr2zRokJSbqqvISvnLlx7WyHwjQfSu53O7C7Xuo1iEmiuY1t3ceFjMn7TuKSyK1A",
+  "indexSha256": "3ec77183e283ccc85591c952a113ffe084ea5f9a77e05d6e74867b14cf3b4473",
+  "signature": "U_pGqDdYgn3msrsUhViC5typeMVFNQFs5stlPVpMfPV5JSqN3hAXuVwzB-Jpyp0gGibyMGVVEMoALPSEvDnOqw"
+}
