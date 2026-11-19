@@ -3,6 +3,6 @@
   "algorithm": "ES256",
   "keyId": "3408ccb46109bc5cc1c0e5710b6f34fafcd4c9c5f19406c2b14dbf4b0c370b76",
   "publicKeySpki": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEOU77iNFs1UNHTHMU1c0Bf1dr2zRokJSbqqvISvnLlx7WyHwjQfSu53O7C7Xuo1iEmiuY1t3ceFjMn7TuKSyK1A",
-  "indexSha256": "3ec77183e283ccc85591c952a113ffe084ea5f9a77e05d6e74867b14cf3b4473",
-  "signature": "U_pGqDdYgn3msrsUhViC5typeMVFNQFs5stlPVpMfPV5JSqN3hAXuVwzB-Jpyp0gGibyMGVVEMoALPSEvDnOqw"
+  "indexSha256": "7be9981d78ebb362d330569b037148f64a0c95e4ac393c1d6e0ddec3a35e5efe",
+  "signature": "KSIaTFydvyj_2OwEJz-Buj7aTLuqICbSr0n70rCEZJKSt1BbyqHVXRF5lV3k6kAaEcGBRzjJeB3QvBXu7SZ3sg"
 }
