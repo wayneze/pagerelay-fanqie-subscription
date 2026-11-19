@@ -2,23 +2,23 @@
   "formatVersion": 1,
   "repositoryId": "fanqie.private",
   "name": "番茄私人订阅",
-  "sequence": 4,
-  "generatedAt": "2026-11-19T09:44:59.737Z",
+  "sequence": 5,
+  "generatedAt": "2026-11-19T14:46:27.677Z",
   "packages": [
     {
       "packageId": "org.pagerelay.user.fanqienovel.com",
       "name": "番茄小说 · 私有体验",
-      "version": "1.0.17",
+      "version": "1.0.18",
       "minimumRuntimeVersion": "0.29.0",
       "artifactPath": "source.rsource",
-      "artifactSha256": "e8d3cb9b144e083c20f39eab44fc27508af195a402fab39f86b4d6c2705b111b",
+      "artifactSha256": "3dda4067694f01c07337662069aedbde971d2c65987d80dbae7741041cf38851",
       "artifactSize": 128087,
-      "contentDigest": "2f0f6f824d34d93d920b44ae72f56f33e633ce312f8581ab86cada37f200a753",
+      "contentDigest": "de45588e2481528512bcba63eea4332b7c435a812caf247ccf37e49d750a379b",
       "signerKeyId": "04301ae0d2464972d1c046bb3e8cff76b0dc3d06ea61da2afed76779f03f0f8b",
       "entryIds": [
         "org.pagerelay.user.fanqienovel.com.text"
       ],
-      "publishedAt": "2026-11-19T09:44:59.737Z"
+      "publishedAt": "2026-11-19T14:46:27.677Z"
     }
   ]
 }
